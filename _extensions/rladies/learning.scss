@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+$body-bg: #191919;
+$body-color: #fff;
+$link-color: #42affa;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: blue !default;

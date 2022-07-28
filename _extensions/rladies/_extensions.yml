@@ -1,0 +1,10 @@
+title: R-Ladies Presentation Ninja
+version: 1.0.0
+contributes:
+  formats:
+    revealjs:
+       theme: [default, rladies.scss, rladies-fonts.scss]
+       title-slide-attributes:
+          data-background-image: title.png
+          data-background-size: contain
+       preview-links: auto

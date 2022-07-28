@@ -1,7 +1,5 @@
 ---
 title: "R-Ladies Xarignan Theme"
-author: "Your Name"
-date: today
 format: rladies-revealjs
 ---
 
